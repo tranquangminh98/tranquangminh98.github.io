@@ -5,3 +5,9 @@ permalink:
 tags:
   - reinforcement-learning
 ---
+
+$$ A(v,s) = ... $$   
+$$ A(v,s) = ... $$   
+\[ A(v,s) \]
+
+
