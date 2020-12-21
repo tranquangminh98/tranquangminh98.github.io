@@ -6,8 +6,7 @@ tags:
   - reinforcement-learning
 ---
 
-$$ A(v,s) = ... $$   
-$$ A(v,s) = ... $$   
-\[ A(v,s) \]
+$$ A(v,s) = ... $$
+test $ A(v,s) = ... $ test test test
 
 
