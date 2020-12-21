@@ -1,11 +1,7 @@
 ---
 title: 'Action function in reinforcement learning'
-date: 2199-01-01
+date: 2021-01-01
 permalink: 
 tags:
-  - cool posts
-  - category1
-  - category2
+  - reinforcement-learning
 ---
-
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
