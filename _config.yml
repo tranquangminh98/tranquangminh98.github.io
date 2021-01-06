@@ -85,8 +85,8 @@ author:
   bio              : "Have been thinking..."
   location         : "Vietnam"
   employer         :
-  pubmed           : ""
-  googlescholar    : ""
+  pubmed           :
+  googlescholar    : "https://scholar.google.com/citations?user=AmQwXDUAAAAJ&hl=en&oi=sra"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/"
+  orcid            : "https://orcid.org/0000-0003-1468-0476"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : ""
+  twitter          :
   vine             :
   weibo            :
   xing             :
